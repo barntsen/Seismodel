@@ -17,6 +17,6 @@
   
   ## Content: 
   
-   1. Modeling-how-and-why](01-Modeling-how-and-why.pdf)
-   2. Elastic waves](02-Elastic-waves.pdf)
-   3. Ray modeling  (03-Ray-modelling.pdf)
+   1. [Modeling-how-and-why](01-Modeling-how-and-why.pdf)
+   2. [Elastic waves](02-Elastic-waves.pdf)
+   3. [Ray modelingi](03-Ray-modelling.pdf)
