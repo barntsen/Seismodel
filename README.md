@@ -24,7 +24,7 @@
 
  ## Extra material (not in curriculum)
    Below is some more details about finite-difference modelling and
-   python code. 
+   python code in the form of Jupyter Notebooks.
    1. [Extra material python code for FD 1D seismic waves](05-Extra-Material/waveEquation1D.ipynb)
    2. [Extra material python code for FD 2D seismic waves](05-Extra-Material/waveEquation2D.ipynb)
 
