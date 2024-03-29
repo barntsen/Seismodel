@@ -1,4 +1,4 @@
-# Seismic modeling
+# Seismic modeling 
   This directory contains slides for four lectures on modeling of
   seismic waves. The lectures use little or no mathematics
   and are suitable for the general geoscience student.
@@ -17,6 +17,14 @@
   
   ## Content: 
   
-   1. [Modeling-how-and-why](01-Modeling-how-and-why.pdf)
-   2. [Elastic waves](02-Elastic-waves.pdf)
-   3. [Ray modelingi](03-Ray-modelling.pdf)
+   1. [Modeling-how-and-why](01-Modeling-how-and-why/presentation.pdf)
+   2. [Elastic waves](02-Elastic-waves/presentation.pdf
+   3. [Ray modelling](03-Ray-modelling/presentation.pdf)
+   4. [Finite-Difference-Modelling](04-Finite-Difference-Modelling/presentation.pdf)
+
+ ## Extra material (not in curriculum)
+   Below is some more details about finite-difference modelling and
+   python code. 
+   1. [Extra material python code for FD 1D seismic waves](05-Extra-Material/waveEquation1D.ipynb)
+   2. [Extra material python code for FD 2D seismic waves](05-Extra-Material/waveEquation2D.ipynb)
+
