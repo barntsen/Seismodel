@@ -18,7 +18,7 @@
   ## Content: 
   
    1. [Modeling-how-and-why](01-Modeling-how-and-why/presentation.pdf)
-   2. [Elastic waves](02-Elastic-waves/presentation.pdf
+   2. [Elastic waves](02-Elastic-waves/presentation.pdf)
    3. [Ray modelling](03-Ray-modelling/presentation.pdf)
    4. [Finite-Difference-Modelling](04-Finite-Difference-Modelling/presentation.pdf)
 
