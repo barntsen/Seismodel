@@ -27,4 +27,5 @@
    python code in the form of Jupyter Notebooks.
    1. [Extra material python code for FD 1D seismic waves](05-Extra-Material/waveEquation1D.ipynb)
    2. [Extra material python code for FD 2D seismic waves](05-Extra-Material/waveEquation2D.ipynb)
+   3. [Extra material paper on gas chimneys](05-Extra-Material/arntsen-et-al-2007-seismic-modeling-of-gas-chimneys.pdf)
 
